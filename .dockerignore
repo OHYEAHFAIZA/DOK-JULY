@@ -1,0 +1,13 @@
+pycache/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.git/
+.gitignore
+README.md
+Dockerfile
+docker-compose.yml
+.vscode/
+.idea/
